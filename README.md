@@ -13,4 +13,7 @@ Exploring data by summary statistics, and by creating visualizations, made possi
 
 ## Contents
 
-
+[1. Problem Description, Overview and Interpretations] (https://github.com/LorenzoNegri/Heart-Disease-Mortality-Prediction/blob/master/01_ProblemDescription_Overview_Interpretations.pdf)
+[2. Data Exploration] (https://github.com/LorenzoNegri/Heart-Disease-Mortality-Prediction/blob/master/02_Data_Exploration.pdf)
+[3. Correlation Analysis] (https://github.com/LorenzoNegri/Heart-Disease-Mortality-Prediction/blob/master/03_Correlation_Analysis.pdf)
+[4. Predictive analytics and Conclusions] (https://github.com/LorenzoNegri/Heart-Disease-Mortality-Prediction/blob/master/03_Correlation_Analysis.pdf)
